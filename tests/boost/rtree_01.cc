@@ -21,6 +21,7 @@
 
 #include <boost/geometry/index/rtree.hpp>
 #include <boost/geometry/strategies/strategies.hpp>
+#include <boost/geometry/algorithms/distance.hpp>
 
 #include <algorithm>
 
