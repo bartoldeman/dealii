@@ -25,6 +25,7 @@
 #  include <map>
 #  include <shared_mutex>
 #  include <thread>
+#  include <memory>
 #  include <vector>
 
 DEAL_II_NAMESPACE_OPEN
