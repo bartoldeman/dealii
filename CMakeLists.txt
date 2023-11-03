@@ -34,6 +34,7 @@ MESSAGE(STATUS "This is CMake ${CMAKE_VERSION}")
 MESSAGE(STATUS "")
 
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8.12)
+set(CMAKE_POLICY_DEFAULT_CMP0057 NEW)
 
 #
 # We support all policy changes up to version 3.1.0. Thus, explicitly set
